@@ -6,13 +6,8 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>Магазин пончиков</title>
 </head>
-<style>
-h1{
-    color: red;
-}
 
-</style>
-<body>
+<body >
     <h1>Mir Ponchikov</h1>
     <img src="/uploads/2023/02/donut.png">
 </body>
